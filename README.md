@@ -132,13 +132,7 @@ When you run:
 
 output = await orch.run(crop_name, issue)
 
-You receive:
 
-Output Key	Meaning
-crop_care_guidance	Full AI crop care steps
-recommended_agriculture_expert	Best expert to meet
-general_crop_information	Clean summary of crop
-farmer_journal	Saved logs / memory
 Output Key Meaning crop_care_guidance Full AI crop care steps recommended_agriculture_expert Best expert to meet general_crop_information Clean summary of crop farmer_journal Saved logs / memory
 
 🧪 Example Output Format 🌾 Crop Care Summary: Your plant may be experiencing mild water stress. Ensure proper soil moisture.
